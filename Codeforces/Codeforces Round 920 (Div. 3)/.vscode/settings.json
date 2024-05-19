@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "*.html": "html",
+        "chrono": "cpp",
+        "complex": "cpp",
+        "iostream": "cpp",
+        "ostream": "cpp"
+    }
+}

@@ -1,0 +1,2 @@
+Command failed: "/home/jaman/Documents/cp/Online Contest/BCS/ICPC Collaborative Contest - 77/Tests/a.out" 1 < "/home/jaman/Documents/cp/Online Contest/BCS/ICPC Collaborative Contest - 77/Tests/input_1.txt" > "/home/jaman/Documents/cp/Online Contest/BCS/ICPC Collaborative Contest - 77/Tests/code_output_1.txt"
+Segmentation fault (core dumped)
